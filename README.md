@@ -46,7 +46,8 @@
 
 - 🎯 **RBAC Systems**: Prototype to production
 - 📊 **Business Impact**: 25% revenue growth contribution
-- 🔧 **DevOps**: CI/CD optimization and automation
+- ☁️ **AWS Cloud**: CI/CD pipelines and infrastructure management
+- 🔧 **DevOps**: Kubernetes, Docker, and deployment automation
 - 🎨 **UI/UX**: Design systems and best practices
 - 🚀 **Performance**: High-scale application optimization
 
@@ -76,6 +77,13 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
+
 ### 🎨 Frontend & Styling
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -83,12 +91,12 @@
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Databases & Infrastructure
+### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -204,8 +212,8 @@
 ### ⚙️ Backend & DevOps
 ```diff
 + RESTful APIs with Node.js and Python
-+ CI/CD pipelines and deployment automation
-+ Container orchestration with Kubernetes
++ AWS Cloud Infrastructure & CI/CD pipelines
++ Container orchestration with Kubernetes & Docker
 + Database design and optimization
 ```
 
