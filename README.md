@@ -42,7 +42,7 @@
 <td width="50%" valign="top">
 
 ### 🌟 Key Achievements
-**6+ Years of Excellence**
+**8+ Years of Excellence**
 
 - 🎯 **RBAC Systems**: Prototype to production
 - 📊 **Business Impact**: 25% revenue growth contribution
